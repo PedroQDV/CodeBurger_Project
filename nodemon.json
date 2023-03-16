@@ -1,0 +1,8 @@
+
+{
+  "_comement1": "Arquivo criado somente para ultilizar o sucrase junto com o nodemon",
+  
+  "execMap":{
+    "js": "node -r sucrase/register"
+  }
+}
